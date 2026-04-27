@@ -1,0 +1,29 @@
+{
+  "name": "Alex Morgan",
+  "roles": ["Full-Stack Developer", "UI Designer", "Indie Hacker", "Coffee Enthusiast"],
+  "tagline": "I craft delightful, fast, and human web experiences.",
+  "about": "Hi, I'm Alex — a developer who loves turning ideas into interfaces that feel alive. I care about typography, motion, and the tiny details that make a product feel handmade. When I'm not shipping side projects, you'll find me exploring trails or brewing pour-overs.",
+  "avatarInitials": "AM",
+  "location": "San Francisco, CA",
+  "socials": {
+    "github": "https://github.com/yourhandle",
+    "linkedin": "https://linkedin.com/in/yourhandle",
+    "twitter": "https://twitter.com/yourhandle",
+    "email": "hello@example.com"
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "PostgreSQL", "Edge Functions", "REST", "GraphQL"]
+    },
+    {
+      "category": "Design & Tools",
+      "items": ["Figma", "Git", "Vite", "Vercel", "Linear"]
+    }
+  ],
+  "footer": "Built with care · © 2026 Alex Morgan"
+}
