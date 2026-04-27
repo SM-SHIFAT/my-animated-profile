@@ -1,10 +1,10 @@
 {
-  "name": "Alex Morgan",
-  "roles": ["Full-Stack Developer", "UI Designer", "Indie Hacker", "Coffee Enthusiast"],
-  "tagline": "I craft delightful, fast, and human web experiences.",
-  "about": "Hi, I'm Alex — a developer who loves turning ideas into interfaces that feel alive. I care about typography, motion, and the tiny details that make a product feel handmade. When I'm not shipping side projects, you'll find me exploring trails or brewing pour-overs.",
-  "avatarInitials": "AM",
-  "location": "San Francisco, CA",
+  "name": "Syed Mahfuzur Rahman",
+  "roles": ["Flutter Developer", "Lecturer", "Coffee Enthusiast"],
+  "tagline": "Building scalable mobile experiences.",
+  "about": "Hi, I'm Syed Mahfuzur Rahman — a Flutter developer, passionate about building efficient, user-friendly applications and mentoring the next generation of engineers. I enjoy solving real-world problems through clean, maintainable code and modern development practices. Alongside teaching and research, I continuously explore new technologies to enhance both my work and my students' learning experience. When I’m not coding or in the classroom, you’ll likely find me enjoying a good cup of coffee and refining ideas for my next project.", 
+  "avatarInitials": "MR",
+  "location": "Barishal, BD",
   "socials": {
     "github": "https://github.com/yourhandle",
     "linkedin": "https://linkedin.com/in/yourhandle",
@@ -14,16 +14,16 @@
   "skills": [
     {
       "category": "Frontend",
-      "items": ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js"]
+      "items": ["React", "Flutter", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js"]
     },
     {
       "category": "Backend",
-      "items": ["Node.js", "PostgreSQL", "Edge Functions", "REST", "GraphQL"]
+      "items": ["Node.js", "Django", "PostgreSQL", "Edge Functions", "REST", "GraphQL"]
     },
     {
       "category": "Design & Tools",
-      "items": ["Figma", "Git", "Vite", "Vercel", "Linear"]
+      "items": ["Figma", "Git", "Vite", "Vercel"]
     }
   ],
-  "footer": "Built with care · © 2026 Alex Morgan"
+  "footer": "Built with care · © 2026 Syed Mahfuzur Rahman"
 }
